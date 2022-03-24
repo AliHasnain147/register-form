@@ -1,0 +1,95 @@
+*{
+
+margin: 0;
+padding: 0;
+
+}
+
+body{
+background: url(image/modern.webp);
+background-size: 40cm;
+background-position: 400px 0px 0px 0px;
+}
+
+div.main{
+
+    width: 400px;
+    margin: 100px auto 0px auto;
+}
+
+h2{
+
+text-align: center;
+padding: 20px;
+font-family: sans-serif;
+}
+
+div.register{
+
+background-color: rgb(15, 32, 68);
+width: 100%;
+font-size: 18px;
+border-radius: 10px;
+
+border: 1px solid rgba(229, 255, 0, 0.3);
+
+box-shadow: 2px 2px 15px rgba(228, 19, 19, 0.3);
+color: #fff;
+
+}
+
+form#register{
+
+margin: 40px;
+}
+
+label{
+
+font-family: sans-serif;
+font-size: 18px;
+font-style: italic;
+
+}
+
+
+input#name{
+
+width: 300px;
+border: 1px solid #ddd;
+border-radius: 3px;
+outline: 0;
+padding: 7px;
+background-color: rgb(190, 245, 179);
+box-shadow: inset 1px 1px 5px
+rgba(0,0,0,0.3);
+}
+input#submit{
+width: 200px;
+padding: 7px;
+font-size: 16px;
+    font-family: sans-serif;
+font-weight: 600;
+border: #ddd;
+border-radius: 3px;
+background-color: rgb(3, 19, 243);
+cursor: pointer;
+border: 5px solid black;
+box-shadow: 0,0,0,rgba(229, 255, 0, 0.3);
+
+}
+
+
+label,span,h2{
+text-shadow: 1px 1px 5px rgba(red);
+
+
+
+}
+img{
+
+width: 70px;
+
+
+
+}
+
